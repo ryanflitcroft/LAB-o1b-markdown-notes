@@ -34,7 +34,7 @@ modified: `<file>`
 6. `git commit -m "human-readable message here"`
 - #file changed, #file insertion(+)
 
-
+## =] This project has been pushed to GitHub repository!! =]
 
 
 
