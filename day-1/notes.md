@@ -34,9 +34,10 @@ modified: `<file>`
 6. `git commit -m "human-readable message here"`
 - Your branch is ahead of 'origin/main' by 1 commit.
 - Use `git push` to publish local commits.
+- #file changed, #file insertion(+)
 
 7. `git push`
-- #file changed, #file insertion(+)
+
 
 ## =] This project has been pushed to GitHub repository!! =]
 
