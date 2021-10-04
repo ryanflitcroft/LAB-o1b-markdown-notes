@@ -1,7 +1,7 @@
 # HELLO VSCODE
 *Here are some notes from day 1:*
 
-1. `git clone https://github.com/ryanflitcroft/LAB-o1b-markdown-notes`
+1. `git clone` [GitHub repository link](https://github.com/ryanflitcroft/LAB-o1b-markdown-notes)
 
 2. Write some code
 
